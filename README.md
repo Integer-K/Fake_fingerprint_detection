@@ -3,9 +3,10 @@
 * 문의 : jeongsoo.kim1992@gmail.com
 
 # 1. 논문 소개
-## 1.1 제목 : Fake fingerprint detection based on Siamese Network
-* < Siamese Network 기반의 위조 지문 판별 모형에 관한 연구 >
-## 1.2 ㅇㅇㅇ
+## 1.1 제목
+* Fake fingerprint detection based on Siamese Network
+* Siamese Network 기반의 위조 지문 판별 모형에 관한 연구
+## 1.2 개요
 ## 1.3 ㅇㅇㅇ
 
 # 2. 자료 구성
